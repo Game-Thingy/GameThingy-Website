@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Game Thingy</title>
+<link href="Game Thingy css.css" rel="stylesheet">
+</head>
+<body>
+<div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <a href="Leaderboard.html">Leaderboard</a>
+  <a href="Contact.html">Contact</a>
+  <a href="HTP.html">How To Play</a>
+  </ul>
+</div>
+<center><h1><span class="size">Game Thingy</h1></center>
+<div id="center">
+<center><h1><span class="Black">About The Game</span></h1></center>
+<center><p>Game Thingy is a 2D mining game where you go mining underground in search of valuable gems and minerals.
+While mining for gems and minerals, you may come across minesafts along the way. In the minesafts, you may find treasure chests
+which may contains valuable minerals and gems or gold coins. With the minerals and gems that you've mined and found in chests can be sold for gold coins. With the coins you've earned, 
+you use them to buy upgrades like better pickaxes and so on.<p>
+<center><h1><span class="Black">System Requirements</h1></center>
+<center><p>Any system that is from the last 10-15 years.</p></center>
+<center><h1><span class="Black">Download</h1></center>
+<p>Right click on this <a href="file:///F:/Game%20Thingy%20website/Test.txt" download>Download link</a> and click on "Save link as..." to download the game.</p>
+</div>
+  
+</body>
+</html>

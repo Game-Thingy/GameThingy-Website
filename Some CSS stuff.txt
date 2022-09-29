@@ -1,0 +1,11 @@
+margin: auto;
+  width: 640px; 
+  padding: 0px;
+  font-family: 'Lexend Deca', sans-serif; 
+  color: #2E475D;    
+
+  padding: 20px;
+  border-style: solid;
+  border-color: #B6C7D6;
+  border-radius: 20px;
+  background-color: #EAF0F6;
